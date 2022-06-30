@@ -1,0 +1,13 @@
+p+p{
+    color:red; 
+    line-height: 2.5;
+    text-indent: 20px;
+    word-spacing:5px ;
+}
+h1{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-shadow: 1px 1px 2px red,
+    1px 2px 3px blue;
+    text-align: center;
+}
