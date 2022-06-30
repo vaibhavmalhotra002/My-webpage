@@ -1,0 +1,34 @@
+/* class selectors */
+
+p,a{
+    color: red;
+} 
+/*
+a{
+    color: green;
+*/  
+li{
+    list-style-type: square;
+}
+.special{
+    color: orange;
+    font-weight: bold;
+}
+li.special{
+    color: blue;
+}
+li em{
+    color: purple;
+}
+h1+p{
+    font-size: larger;
+}
+a:hover{
+    color:aqua;
+    text-decoration: none;
+}
+body h1+p .special{
+    color: yellowgreen;
+    background-color: black;
+    padding: 5px;
+}
