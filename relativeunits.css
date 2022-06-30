@@ -1,0 +1,28 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    font-size:45px ;
+}
+html{
+    font-size: 25px;
+}
+div{
+    box-sizing: border-box;
+    color: black;
+    margin-bottom: 4px;
+    padding: 4x;
+    width: 400px;
+    
+}
+
+.percent{
+    font-size: 200%;
+}
+.em{
+    font-size: 1em;
+}
+.rem{
+    font-size: 1rem;
+}
+.vw{
+    font-size:5vw;
+}
